@@ -1,0 +1,11 @@
+streamlit
+easyocr
+paddleocr
+paddlepaddle
+pytesseract
+opencv-python
+pillow
+numpy==1.26.4
+torch
+torchvision
+ultralytics
