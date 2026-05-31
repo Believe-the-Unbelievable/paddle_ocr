@@ -1,4 +1,4 @@
-# paddle_ocr
+# paddle_ocr detection using yolo
 Detect the number plates and Recognize the characters using PaddleOCR and YOLO model (ocr.pt)
 
 <img width="1708" height="902" alt="output" src="https://github.com/user-attachments/assets/2fefe9d4-fc74-4a8d-a273-e11b3acb51f5" />
